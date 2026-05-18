@@ -6,7 +6,7 @@
 
 An AI-powered healing diary for students to privately reflect on their feelings, track their mood over time, and receive psychological analysis from multiple frameworks.
 
-**Live Demo:** [https://healing-diary.streamlit.app](https://healing-diary.streamlit.app)
+**Live Demo:** [https://sherryshen-healing-diary.streamlit.app](https://sherryshen-healing-diary.streamlit.app)
 
 ---
 
@@ -42,3 +42,6 @@ An AI-powered healing diary for students to privately reflect on their feelings,
    ```bash
    git clone https://github.com/SherryShen/emotion-diary.git
    cd emotion-diary
+**Live Demo:** [https://sherryshen-healing-diary.streamlit.app](https://sherryshen-healing-diary.streamlit.app)
+
+**GitHub Repo:** [https://github.com/SherryShen/emotion-diary](https://github.com/SherryShen/emotion-diary)
