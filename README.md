@@ -42,7 +42,3 @@ An AI-powered healing diary for students to privately reflect on their feelings,
    ```bash
    git clone https://github.com/SherryShen/emotion-diary.git
    cd emotion-diary
-**Live Demo:** [https://sherryshen-healing-diary.streamlit.app](https://sherryshen-healing-diary.streamlit.app)
-
-**GitHub Repo:** [https://github.com/SherryShen/emotion-diary](https://github.com/SherryShen/emotion-diary)
-**Contact:** Sherry Shen – [sherryshen818@gmail.com](mailto:sherryshen818@gmail.com) – [GitHub](https://github.com/SherryShen)
