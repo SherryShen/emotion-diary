@@ -42,3 +42,55 @@ An AI-powered healing diary for students to privately reflect on their feelings,
    ```bash
    git clone https://github.com/SherryShen/emotion-diary.git
    cd emotion-diary
+Create and activate a virtual environment (optional but recommended)
+
+bash
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+Install dependencies
+
+bash
+pip install -r requirements.txt
+Set up your Groq API key
+
+Create a file .streamlit/secrets.toml and add:
+
+toml
+GROQ_API_KEY = "your_gsk_api_key_here"
+Alternatively, you can hardcode it in app.py (not recommended for public deployment).
+
+Run the app
+
+bash
+streamlit run app.py
+Open your browser at http://localhost:8501
+
+📂 Project Structure
+text
+emotion-diary/
+├── app.py                  # Main Streamlit application
+├── requirements.txt        # Python dependencies
+├── .streamlit/
+│   └── secrets.toml        # API keys (ignored by git)
+├── .gitignore              # Git ignore file
+└── README.md               # This file
+🔮 Future Improvements
+Searchable timeline of past entries and conversations
+
+Generate longitudinal reports for mental health professionals
+
+Integrate brainwave‑informed music therapy
+
+Provide acupressure guidance based on traditional Chinese medicine
+
+🙋‍♀️ Contact
+Sherry Shen – sherryshen818@gmail.com
+GitHub: github.com/SherryShen
+Live Demo: sherryshen-healing-diary.streamlit.app
+
+🌟 Acknowledgments
+Groq for providing fast, free LLM inference.
+
+Streamlit for making full‑stack AI app development accessible.
+
+The PHQ-4 scale for evidence‑based mental health screening.
