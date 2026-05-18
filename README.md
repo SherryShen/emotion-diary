@@ -1,23 +1,23 @@
-# AI Emotional Diary
+# Healing Diary
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-red.svg)](https://streamlit.io)
 
-An AI‑powered emotional wellness web app for students to privately reflect on their feelings, track their mood over time, and receive psychological analysis from multiple theoretical frameworks.
+An AI-powered healing diary for students to privately reflect on their feelings, track their mood over time, and receive psychological analysis from multiple frameworks.
 
-**Live Demo:** [https://healing-diary.streamlit.app](https://healing-diary.streamlit.app) (replace with your actual URL)
+**Live Demo:** [https://healing-diary.streamlit.app](https://healing-diary.streamlit.app)
 
 ---
 
 ## ✨ Features
 
-- **PHQ‑4 Mood Assessment** – Self‑screen for anxiety and depression using a clinically validated questionnaire.
+- **PHQ-4 Mood Assessment** – Self-screen for anxiety and depression using a clinically validated questionnaire.
 - **Mood Tracking** – Visualize your anxiety and depression scores over time with an interactive line chart.
 - **AI Companion Chat** – Talk to a warm, empathetic AI companion anytime (powered by Groq API).
-- **Multi‑Perspective Psychological Analysis** – Get insight from five frameworks: Freud, Jung, Adler, CBT, and Humanistic.
-- **Emotion Diary** – All conversations and analyses are saved in your session as a private, scrollable diary.
-- **Rational‑User Button** – A dedicated “Analyze My Narrative” button for users who need cognitive understanding of their emotions.
+- **Multi-Perspective Psychological Analysis** – Get insight from five frameworks: Freud, Jung, Adler, CBT, and Humanistic.
+- **Healing Diary** – All conversations and analyses are saved in your session as a private, scrollable diary.
+- **Rational-User Button** – A dedicated “Analyze My Narrative” button for users who need cognitive understanding of their emotions.
 
 ---
 
